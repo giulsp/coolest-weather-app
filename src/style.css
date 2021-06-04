@@ -1,0 +1,80 @@
+body {
+  color: black;
+  font-family: "PT Mono", monospace;
+}
+
+#city {
+  text-align: center;
+}
+
+#current-date {
+  font-weight: bolder;
+}
+
+#temperature {
+  font-weight: bold;
+  font-size: 40px;
+}
+.current-city {
+  text-align: center;
+}
+
+.location-icon {
+  font-size: 30px;
+  color: red;
+}
+
+.general-info {
+  text-align: center;
+  padding: 0 10 0 10;
+  border: 1px solid;
+  border-radius: 3px;
+  font-size: 18px;
+  line-height: 2;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.today-weather {
+  text-align: center;
+  font-size: 45px;
+}
+
+.advanced-info {
+  text-align: center;
+  border: 1px solid;
+  border-radius: 3px;
+  font-size: 15px;
+  font-size: 18px;
+  line-height: 2;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.week-days {
+  text-align: center;
+  margin: 40px auto;
+}
+
+.clouds {
+  font-size: 30px;
+}
+
+.sun {
+  font-size: 30px;
+}
+
+.rain {
+  font-size: 30px;
+}
+
+.thunder {
+  font-size: 30px;
+}
+
+.sun-and-clouds {
+  font-size: 30px;
+}
+
+.search-bar {
+  text-align: center;
+  margin: 30px auto;
+}
